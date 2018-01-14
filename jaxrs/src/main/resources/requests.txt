@@ -1,0 +1,12 @@
+http://localhost:8765/sample-app/rest/post
+
+{
+"firstName": "Jan",
+  "lastName": "Babel",
+  "size":0
+}
+
+[PARAMETER]
+[echo.arg0.size]
+[must be greater than or equal to 1]
+[0]
